@@ -7,7 +7,6 @@ Software Engineer | Data Analyst | Tech Enthusiast
 I'm a proactive learner, always eager to dive into new technologies and expand my skill set. With experience in machine learning and web development, I'm constantly seeking opportunities to apply my knowledge and contribute to impactful projects.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://5hweta28.github.io/Portfolio/)
 * ✉️  You can contact me at [shwetar0002@gmail.com](mailto:shwetar0002@gmail.com)
 
 ### Skills
